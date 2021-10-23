@@ -18,3 +18,7 @@ TO DO:
 1) look at twitter API and just get it working in a NodeJS sandbox
 2) set up a simple DB or DF and stick it in there. Chance to learn postgres?
 3) Get python script to pull from DB and analyse and put backa result. 
+
+
+SIDE IDEA:
+- a simple website, that upon request scraps available twitter data and provides sentiment analysis. 
